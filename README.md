@@ -4,17 +4,16 @@
   <img src="/img/yen.png" alt="Logo" width="300" height="300">
 </p>
 
-Es una recopilacion de recursos para CuerdOS. Vienen incluido los CuerdOS Wallpapers Reloaded, CThemes, conkyTHEME, 
+Es una recopilacion de recursos para CuerdOS. Vienen incluido los CuerdOS Wallpapers Reloaded, CThemes, conkyTHEME y CuerdOS Yelena Hello
 
-| Captura de pantalla |
-| ------------------ |
-| ![Standard Edition](/img/yel1.1.png) |
+## ANTES DE INSTALAR, DEBES DESCARGAR LAS SIGUIENTES DEPENDENCIAS 
 
-## ANTES DE INSTALAR, DEBES DESCARGAR LAS SIGUIENTES DEPENDENCIAS:
+# Aplicables para CuerdOS Yelena Hello:
 
 - python3
 
-Comando (Abre sakura): `sudo apt install pyhton3`
+Comando: `sudo apt install pyhton3`
+
 
 ## INSTALACIÓN:
 
