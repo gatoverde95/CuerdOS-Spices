@@ -4,7 +4,7 @@
   <img src="/img/yen.png" alt="Logo" width="300" height="300">
 </p>
 
-Es una recopilacion de recursos para CuerdOS.
+Es una recopilacion de recursos para CuerdOS. Vienen incluido los CuerdOS Wallpapers Reloaded, CThemes, conkyTHEME, 
 
 | Captura de pantalla |
 | ------------------ |
